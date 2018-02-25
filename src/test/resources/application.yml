@@ -1,0 +1,14 @@
+security:
+  basic:
+    enabled: false
+
+spring:
+  cloud:
+    config:
+      enabled: false
+
+eureka:
+  client:
+    enabled: false
+
+secretMessage: "Local Message"
